@@ -132,8 +132,3 @@ MATLAB Requirements:
 - Image Processing Toolbox (essential)
 - Signal Processing Toolbox (for CBF analysis)
 - Parallel Computing Toolbox (recommended for REG tool)
-
-System Requirements:
-- Minimum 8GB RAM (16GB recommended for large datasets)
-- 1GB free disk space for processed images
-- Display resolution: 1280×720 or higher
