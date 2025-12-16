@@ -132,3 +132,5 @@ MATLAB Requirements:
 - Image Processing Toolbox (essential)
 - Signal Processing Toolbox (for CBF analysis)
 - Parallel Computing Toolbox (recommended for REG tool)
+
+**Confidentiality Notice: This document contains proprietary and confidential information; the project is currently under patent application, and this material must not be disclosed, distributed, or reproduced without prior written permission.**
